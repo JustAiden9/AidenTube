@@ -3,7 +3,7 @@ session_start();
 
 // Simulated user data (in a real-world scenario, this would be fetched from a database)
 $users = [
-    'Aiden' => 'password',
+    'user' => 'password',
 ];
 
 // Function to check if the provided username and password are valid
